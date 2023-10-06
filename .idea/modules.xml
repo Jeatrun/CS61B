@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS61B.iml" filepath="$PROJECT_DIR$/CS61B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW.iml" filepath="$PROJECT_DIR$/HW/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/on_class_exercise/on_class_exercise.iml" filepath="$PROJECT_DIR$/on_class_exercise/on_class_exercise.iml" />
+    </modules>
+  </component>
+</project>
